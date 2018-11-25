@@ -13,4 +13,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
  PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_ef63.mk
+    $(LOCAL_DIR)/superior_ef63.mk
